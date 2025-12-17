@@ -17,7 +17,7 @@ System.out.print("Enter your first animal: ");
 System.out.print("Enter your first Verb: ");
     String firstVerb = input.nextLine();
 
-System.out.print("Enter your secondAdj: ");
+System.out.print("Enter your second adjective: ");
     String secondAdj = input.nextLine();
 
 System.out.print("Enter your first noun: ");
